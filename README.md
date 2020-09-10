@@ -1,6 +1,6 @@
-### Hi there, I'm Andrew!
+## Hi there, I'm Andrew!
 
-## I'm a student, developer, creator ...
+### I'm a student, developer, creator ...
 - 🚧 I'm currently working on a few projects that you can find here!
 - 🏛 I'm always learning.
 - 💻 I'm looking for more projects to contribute to.
