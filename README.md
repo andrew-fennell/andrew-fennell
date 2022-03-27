@@ -1,7 +1,7 @@
 ## Hi there, I'm Andrew!
 
 ### I'm a student, developer, creator ...
-- 🚧 I'm currently working on a few projects that you can find here!
+- 🚧 I'm always working on a few projects!
 - 🏛 I'm always learning.
 - 💻 I'm looking for more projects to contribute to.
 - 📷♟ Fun fact: I am learning about photography and chess!
