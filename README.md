@@ -14,9 +14,10 @@ I'm studying computer engineering at Texas A&M University, graduating in Decembe
 - 🗻 　僕は日本語を勉強しています (*I'm studying Japanese*)
 
 ### How I work
-I am highly motivated and enjoy learning new things. I study and learn well through habit building and I enjoy *checking things off the list*. ✅
-
-I like improving skills, languages, and technologies I've learned through putting them into action with projects.
+- I am highly motivated and enjoy learning new things.
+- I study and learn well through habit building.
+- I enjoy *checking things off the list*. ✅
+- I like improving skills, languages, and technologies I've learned through putting them into action with projects.
 
 ### GitHub stats
 These are a few stats from the current year that show my contributions to (public) personal and open source projects.
