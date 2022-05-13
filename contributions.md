@@ -16,13 +16,16 @@ I attend developer meetings weekly and enjoy learning from people who are experi
 - [#22711](https://github.com/matplotlib/matplotlib/pull/22711) - Fixed `RangeSlider` widget `set_val` handling; Improved tests
 
 ## Issues
+- [#23025](https://github.com/matplotlib/matplotlib/issues/23025) - Doc: Use python3 instead of python3.x
 - [#22959](https://github.com/matplotlib/matplotlib/issues/22959) - MNT: macosx memory leak threshold causing failing CI
 - [#22720](https://github.com/matplotlib/matplotlib/issues/22720) - ENH: Generalize widget mouse testing framework
 
 ## Other Pull Requests (participated in)
+- [#23027](https://github.com/matplotlib/matplotlib/pull/23027) - Fix example for "Scale invariant angle label"
 - [#23000](https://github.com/matplotlib/matplotlib/pull/23000) - Additional details on VS install on installation guide
 
 ## Other Issues (participated in)
+- [#23028](https://github.com/matplotlib/matplotlib/issues/23028) - ENH: contour kwarg for negative_linestyle
 - [#21901](https://github.com/matplotlib/matplotlib/issues/22923) - Suggested clarification of comments in errorbar helpers
 - [#22893](https://github.com/matplotlib/matplotlib/issues/22893) - Rainbow text example is broken
 - [#22762](https://github.com/matplotlib/matplotlib/issues/22762) - Issue with `find_nearest_contour` in contour.py
