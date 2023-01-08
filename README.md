@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/-andrewfennell.dev-maroon?style=flat&logo=Firefox&logoColor=white&link=https://andrewfennell.dev/)](https://andrewfennell.dev/)
 [![Gmail Badge](https://img.shields.io/badge/-contact@afennell.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contact@afennell.com)](mailto:contact@afennell.com)
 
-I'm studying computer engineering at Texas A&M University, graduating in December 2022. I'm working as a SWE intern through Summer 2022 and I'm looking for full-time software engineering opportunities for when I graduate! I enjoy working on [personal](https://github.com/andrew-fennell?tab=repositories) and [open source projects][contributions].
+I recently graduated from Texas A&M University with a BS in Computer Engineering. Outside of work, I enjoy working on [personal](https://github.com/andrew-fennell?tab=repositories) and [open source projects][contributions].
 
 ### About me
 - 🚧　 I'm always working on projects for fun
