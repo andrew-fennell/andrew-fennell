@@ -2,7 +2,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-@andrew%20fennell-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-fennell/)](https://www.linkedin.com/in/andrew-fennell/)
-[![Website Badge](https://img.shields.io/badge/-andrewfennell.dev-maroon?style=flat&logo=Firefox&logoColor=white&link=https://andrewfennell.dev/)](https://andrewfennell.dev/)
+[![Website Badge](https://img.shields.io/badge/-andrewfennell.dev-maroon?style=flat&logo=Firefox&logoColor=white&link=https://andrewfennell.dev/)](https://www.afennell.com/)
 [![Gmail Badge](https://img.shields.io/badge/-contact@afennell.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contact@afennell.com)](mailto:contact@afennell.com)
 
 I recently graduated from Texas A&M University with a BS in Computer Engineering. Outside of work, I enjoy working on [personal](https://github.com/andrew-fennell?tab=repositories) and [open source projects][contributions].
